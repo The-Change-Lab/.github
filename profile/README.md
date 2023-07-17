@@ -10,9 +10,9 @@
 
 **We are often engaged in analyzing the large repositories of smartphone data collected in the [Human Screenome Project](https://screenomics.stanford.edu).**
 
-**For more information about the Change Lab visit [thechangelab.stanford.edu]("https://thechangelab.stanford.edu").**
+**For more information about the Change Lab visit [thechangelab.stanford.edu](https://thechangelab.stanford.edu).**
 
-**You can get in touch with us at [thechangelab@stanford.edu]("mailto:thechangelab@stanford.edu").**
+**You can get in touch with us at [thechangelab@stanford.edu](mailto:thechangelab@stanford.edu).**
 
 Banner Image:
 Emo Sky. Ram, N., Conroy, D., Pincus, A. L., Lorek, A., Rebar, A. H., Roche, M. J., Morack, J., Coccia, M., Feldman, J., & Gerstorf, D. (2014). Examining the interplay of processes across multiple time-scales: Illustration with the Intraindividual Study of Affect, Health, and Interpersonal Behavior (iSAHIB). *Research in Human Development, 11,* 142-160
