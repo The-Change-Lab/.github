@@ -15,4 +15,4 @@ For more information about the Change Lab visit [thechangelab.stanford.edu]("the
 You can get in touch with us at [thechangelab@stanford.edu]("thechangelab@stanford.edu").
 
 Banner Image:
-Emo Sky. Ram, N., Conroy, D., Pincus, A. L., Lorek, A., Rebar, A. H., Roche, M. J., Morack, J., Coccia, M., Feldman, J., & Gerstorf, D. (2014). Examining the interplay of processes across multiple time-scales: Illustration with the Intraindividual Study of Affect, Health, and Interpersonal Behavior (iSAHIB). Research in Human Development, 11, 142-160
+Emo Sky. Ram, N., Conroy, D., Pincus, A. L., Lorek, A., Rebar, A. H., Roche, M. J., Morack, J., Coccia, M., Feldman, J., & Gerstorf, D. (2014). Examining the interplay of processes across multiple time-scales: Illustration with the Intraindividual Study of Affect, Health, and Interpersonal Behavior (iSAHIB). *Research in Human Development, 11,* 142-160
