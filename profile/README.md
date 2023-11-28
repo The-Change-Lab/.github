@@ -2,7 +2,7 @@
 
 | | 
 |:-----|
-| [![Emo Sky](https://thechangelab.stanford.edu/wp-content/uploads/2023/01/Screen-Shot-2021-11-30-at-16.30.43-1.png)]([https://github.com/StanfordVL/taskonomy/tree/master/results](https://thechangelab.stanford.edu/the-change-lab/)) |
+| ![Emo Sky](https://drive.google.com/uc?id=18d_M4up54u-CDpfESQZ5EhVzS2Dsg19L)
 
 **The Change Lab @ Stanford, directed by Professor Nilam Ram, studies change and attempts to invoke change.**
 
